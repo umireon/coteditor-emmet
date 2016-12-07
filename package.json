@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "webpack -p"
+  },
+  "devDependencies": {
+    "emmet": "^1.6.0",
+    "json-loader": "^0.5.4",
+    "webpack": "^2.1.0-beta"
+  }
+}
